@@ -1,10 +1,18 @@
 # Hey there! 👋 I'm Chayan (Chayan8837)
 
 ### 🚀 About Me:
-- 🏆 **Finalist** at **Medecro HealthHack 2024**, working on AI-driven clinic management systems.
-- 🌱 I’m constantly learning new technologies and pushing the limits of **full-stack development**.
-- 💻 I specialize in **web applications, AI integrations**, and **creative UI/UX**.
-- 🎨 Passionate about **animations** and bringing designs to life with **smooth, interactive elements**.
+- 🏆 **Finalist** at **Medecro HealthHack 2024**, where I worked on AI-driven clinic management systems.
+- 🌱 Continuously exploring new technologies and refining my skills in **full-stack development**.
+- 💻 Passionate about crafting **web applications, AI integrations**, and **intuitive UI/UX** experiences.
+- 🎨 Love blending **art and code**, bringing designs to life with **smooth animations and interactivity**.
+
+---
+
+### 🏅 Trophies & Achievements:
+- 🏆 **HealthHack Finalist**: Recognized for innovation in AI-powered healthcare solutions.
+- 🏅 **E-commerce Excellence**: Built scalable platforms with seamless user experiences.
+- 🎨 **Creative Contributions**: Designed interactive interfaces with 3D visualizations.
+- 🎮 **Game Dev Enthusiast**: Experimenting with **Three.js** for realistic gameplay animations.
 
 ---
 
@@ -44,6 +52,14 @@
 
 ---
 
+### 🏆 GitHub Trophies:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chayan8837&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</p>
+
+---
+
 ### 🌟 Featured Projects:
 
 #### 🔧 **E-commerce Platform** 
@@ -52,21 +68,20 @@
 
 #### 💡 **AI-Powered Clinic Management System**
 - Developed for **Medecro HealthHack 2024**.
-- Integrated AI to improve diagnosis accuracy, symptom analysis, and diet recommendations.
+- Integrated AI for symptom analysis, diagnosis assistance, and diet planning.
   
 #### 🚀 **Indoor Navigation System** for Railway Stations
-- Real-time navigation for railway station facilities.
-- Using **geolocation** and **accelerometer** for indoor movement tracking.
+- Real-time navigation for station facilities using **geolocation** and **accelerometer tracking**.
 
 #### 🎨 **Creative Waste Disposal Platform**
-- Tackling waste management and sanitation systems through a web portal for complaints and optimized disposal.
+- Tackles waste management challenges via a **complaint portal** with optimized sanitation solutions.
 
 ---
 
 ### ⚡ Fun Tech Experiments:
-- 🧑‍💻 Building **3D interactive models** for e-commerce products.
-- 🎮 Working on a **game using Three.js** with realistic animations.
-- 📱 Exploring **Kotlin** to develop innovative mobile apps for social impact.
+- 🧑‍💻 Creating **3D interactive product models** for immersive e-commerce experiences.
+- 🎮 Building a **game with realistic animations** using **Three.js**.
+- 📱 Exploring **Kotlin** for impactful mobile app solutions in social domains.
 
 ---
 
@@ -87,4 +102,4 @@
 ---
 
 ### ✨ Fun Fact:
-I blend **art with code**, creating immersive experiences and pushing the boundaries of **design and development**! 🎨💻
+I merge **art and tech** to create immersive experiences and push the boundaries of **design and development**! 🎨💻 
